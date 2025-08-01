@@ -1,0 +1,20 @@
+# Bytecode-Dateien
+*.class
+
+# VS Code Ordner
+.vscode/
+
+# Backup-Dateien
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# IntelliJ/IDEA-Projektdateien
+*.iml
+.idea/
+
+# build/ Ordner, falls du später einen einrichtest
+build/
+out/
+target/
